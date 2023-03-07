@@ -1,0 +1,21 @@
+{
+  "name": "test-atomic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "atomic-asset-js-bindings": "^1.0.1",
+    "atomic-asset-typescript": "^1.0.1",
+    "warp-contracts": "^1.2.56",
+    "warp-contracts-plugin-deploy": "^1.0.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.17.11"
+  }
+}
